@@ -6,7 +6,8 @@
 // import './history/3、component'
 // import './history/4、class'
 // import './history/5、setState'
-import './history/6、props'
+// import './history/6、props'
+import "./history/input"
 import './history/import'
 
 // let h1 = <h1 id="box">hello world <span>你好</span></h1>

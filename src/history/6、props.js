@@ -22,7 +22,7 @@ class Person extends React.Component {
     }
 }
 let obj = {
-    name: 123,
+    name: 'zhangsan',
     age: 30,
     gender: 'male'
 }
