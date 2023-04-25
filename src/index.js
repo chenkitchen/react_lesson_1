@@ -3,7 +3,8 @@
 // import ReactDOM from 'react-dom/client'
 
 // import './history/2、jsx'
-import './history/3、component'
+// import './history/3、component'
+import './history/4、class'
 
 let h1 = <h1 id="box">hello world <span>你好</span></h1>
 
