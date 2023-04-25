@@ -4,16 +4,19 @@
 
 // import './history/2、jsx'
 // import './history/3、component'
-import './history/4、class'
+// import './history/4、class'
+// import './history/5、setState'
+import './history/6、props'
+import './history/import'
 
-let h1 = <h1 id="box">hello world <span>你好</span></h1>
+// let h1 = <h1 id="box">hello world <span>你好</span></h1>
 
-console.log(h1);
+// console.log(h1);
 
 // ReactDOM.createRoot(document.getElementById('root')).render(h1)
 
-let React = {
-    createElement(type, props, children) {
-        console.log(type, props, children);
-    }
-}
+// let React = {
+//     createElement(type, props, children) {
+//         console.log(type, props, children);
+//     }
+// }
